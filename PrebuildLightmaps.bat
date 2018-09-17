@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\%ENGINE_VERSION%\Engine\Binaries\Win64\UE4Editor.exe" "%cd%\%CI_PROJECT_NAME%.uproject" -run=resavepackages -buildlighting -AllowCommandletRendering -opengl3

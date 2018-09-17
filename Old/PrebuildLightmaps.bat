@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\Win64\UE4Editor.exe" "%CI_PROJECT_DIR%\%CI_PROJECT_NAME%.uproject" -run=resavepackages -buildlighting -MapsOnly -ProjectOnly -AllowCommandletRendering -Messaging

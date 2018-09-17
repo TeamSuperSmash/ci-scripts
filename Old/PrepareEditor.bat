@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\UnrealBuildTool.exe" %CI_PROJECT_NAME% Development Win64 -project="%CI_PROJECT_DIR%\%CI_PROJECT_NAME%.uproject" -editorrecompile -progress -NoHotReloadFromIDE

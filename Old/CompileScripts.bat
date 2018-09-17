@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe" "%CI_PROJECT_DIR%\%CI_PROJECT_NAME%.sln" /t:build /p:Platform=Win64;verbosity=diagnostic

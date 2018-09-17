@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\%ENGINE_VERSION%\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -project="%cd%\%CI_PROJECT_NAME%.uproject" -noP4 -platform=Win64 -clientconfig=Development -cook -allmaps -NoCompile -stage -pak -archive -archivedirectory="%cd%\Release\%CI_PROJECT_NAME%"
